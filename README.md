@@ -1,5 +1,5 @@
 # Setup Instructions:
-    - Clone the repository: git clone <repository-url>
+    # Clone the repository: git clone <repository-url>
     - Navigate to the project directory: cd <project-directory>
     - Install dependencies: npm install
     - Run the application: npm start
